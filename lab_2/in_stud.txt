@@ -1,0 +1,381 @@
+1 
+Ladoshskaya Tatiana
+0 
+25 
+85 
+22.09.2015 
+Baumanskaya 
+4 
+99
+
+1 
+Sergeenko Uliana
+0
+17 
+79 
+11.30.2015 
+Aptekarskaya 
+6 
+77
+
+0
+Vetrenov Pavel 
+1
+19
+65
+05.09.2017
+11
+56
+
+1 
+Goluicuna Elizaveta 
+0 
+25 
+20 
+22.09.2015 
+Baumanskaya 
+4 
+99
+
+0
+Belov Sergey
+1
+23
+45
+08.05.2012
+1
+54
+
+0
+Khmelina Natalia
+0
+24
+72
+12.06.2011
+3
+8
+
+1
+Podhalimov Dmitriy
+1
+20
+63
+23.10.2016
+Chicherina
+6
+78
+
+1
+Kulebyakina Olga
+0
+18
+36
+12.09.2018
+Glubushkina
+8
+60
+
+1
+Krasnov Timur
+1
+21
+61
+01.01.2016
+Salavata Ulaeva
+6
+52
+
+0
+Surikova Larisa
+0
+24
+96
+05.11.2010
+8
+10
+
+0
+Rostlyakov Evgeniy
+1
+20
+79
+06.08.2015
+9
+32
+
+0
+Gruzdev Leonid
+1
+22
+49
+19.09.2013
+6
+75
+
+0
+Tupolev Fedor
+1
+18
+69
+12.03.2017
+7
+23
+
+1
+Grobarev Alexsandr
+1
+20
+95
+15.09.2016
+Babushkinskaya
+9
+34
+
+0
+Linina Ekaterina
+0
+22
+70
+19.08.2015
+7
+4
+
+1
+Kutilova Polina
+0
+16
+65
+04.05.2018
+Tropareva
+18
+63
+
+1
+Metilova Karina
+0
+18
+97
+30.06.2017
+Arteliriyskaya
+56
+29
+
+1
+Beglov Timofey
+1
+25
+76
+09.08.2013
+Haratyana
+52
+72
+
+0
+Hikiforov Alexsander
+1
+20
+58
+25.08.2015
+8
+56
+
+0
+Gruschina Olesya
+0
+20
+87
+20.07.2016
+7
+54
+
+1
+Zemelkina Maria
+0
+21
+74
+02.08.2014
+Dmitrovskaya
+4
+59
+
+1
+Orlov Aleskey
+1
+24
+50
+07.08.2013
+Lenina
+13
+7
+
+0
+Karcev Nikita
+1
+19
+66
+15.09.2017
+8
+6
+
+0
+Vlasova Maria
+0
+21
+89
+04.05.2014
+9
+44
+
+1
+Lublinov Bogdan
+1
+19
+78
+12.08.2017
+Tatisheva
+9
+85
+
+1
+Ilina Polina
+0
+20
+90
+16.08.16
+Uralskaya
+45
+69
+
+0
+Svetov Roman
+1
+17
+80
+30.09.2018
+9
+21
+
+1
+Ermolaeva Tatiana
+0
+19
+99
+20.08.2017
+Basmanaya
+17
+63
+
+1
+Solovyov Vlad
+1
+19
+83
+28.05.2017
+Karetnaya
+34
+27
+
+1
+Pelicanov Gleb
+1
+22
+76
+04.09.2016
+Plotniskaya
+6
+18
+
+0
+Lumenova Elizaveta
+0
+20
+71
+30.02.2017
+10
+75
+
+1
+Deminchenko Egor
+1
+18
+78
+20.03.2016
+Ryanova
+52
+5
+
+1
+Romanova Olga
+0
+24
+88
+21.08.2014
+Verinskaya
+6
+5
+
+0
+Talinskaya Evgeniya
+0
+18
+96
+06.09.2017
+3
+50
+
+0
+Reytov Kirill
+1
+21
+46
+01.09.2016
+2
+45
+
+0
+Gelova Viktoria
+0
+20
+73
+08.08.2016
+4
+23
+
+1
+Urikova Fatima
+0
+21
+56
+25.08.2017
+Kurchatova
+7
+78
+
+0
+Grikov Rostislav
+1
+23
+93
+07.06.2014
+5
+89
+
+1
+Greeva Alexsandra
+0
+20
+99
+31.08.2017
+Obninskaya
+6
+63
+
+1
+Smirnov Yaroslav
+1
+22
+67
+12.02.2015
+Frikeeva
+3
+12

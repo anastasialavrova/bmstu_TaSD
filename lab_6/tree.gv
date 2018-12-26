@@ -1,0 +1,16 @@
+digraph test_tree {
+"red " -> "blue ";
+"red " -> "yellow ";
+"blue " -> "black ";
+"blue " -> "green ";
+"black " -> "beige ";
+"green " -> "brown ";
+"green " -> "orange ";
+"orange " -> "grey ";
+"orange " -> "purple ";
+"grey " -> "indigo ";
+"indigo " -> "magenta ";
+"magenta " -> "ochre ";
+"purple " -> "pink ";
+"yellow " -> "white ";
+}
